@@ -26,7 +26,7 @@
 
 Запросы к сервису осуществляются с помощью команды:
 
-`curl -X GET 'localhost:9080/{CURRENCY_CODE}`,
+`curl -X GET 'localhost:9080/{CURRENCY_CODE}'`,
 
 где `{CURRENCY CODE}` -- это код валюты (например RUB, или USD).
 
